@@ -18,3 +18,14 @@ if(len(alp)==0):
 else:
     print("String don't have all the alphabets")
 
+'''
+Input :
+
+asnd
+
+Output :
+
+String don't have all the alphabets 
+
+
+'''
