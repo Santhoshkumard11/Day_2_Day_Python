@@ -7,7 +7,7 @@ Check out some of the basic python programs
 List Of Programs
 
 * Birthday 
-* Odd Even in Array
+* Sum Odd Even in Array
 * Identity Matrix
 * Duplicate String  
 * Series Generator
